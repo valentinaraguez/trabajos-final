@@ -1,2 +1,3 @@
 # trabajos-final
-tp 5 y 6
+TP plantaciones
+TP gestion de turnos
